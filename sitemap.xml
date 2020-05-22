@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://keycap-archivist.com/blog/hello-world/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://keycap-archivist.com/maker/alpha-keycaps</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://keycap-archivist.com/maker/alpha-keycaps/alpha-ape</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://keycap-archivist.com/maker/alpha-keycaps/blinker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://keycap-archivist.com/maker/alpha-keycaps/cherep</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://keycap-archivist.com/maker/alpha-keycaps/jedi-blinker</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://keycap-archivist.com/maker/alpha-keycaps/keypora</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://keycap-archivist.com/maker/alpha-keycaps/matapora</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://keycap-archivist.com/maker/alpha-keycaps/mr-worldwide</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://keycap-archivist.com/maker/alpha-keycaps/salvador</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/artkey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/artkey/bull</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/artkey/bull-v2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -482,13 +491,13 @@
 <url> <loc>https://keycap-archivist.com/maker/primecap/lurv-u2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/primecap/sa-kizushi</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/primecap/prime-cruisers</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://keycap-archivist.com/maker/primecap/keybookey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/primecap/trdl2</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/primecap/meet-popsi-skull-(-primecaps-x-hws-collab)</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/primecap/nuther-skull</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/primecap/al-bumen-(-primecaps-x-nightcaps-collab)</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/primecap/cherry-blanks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/primecap/sa-blanks</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://keycap-archivist.com/maker/primecap/keybookey</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/ritual-master</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/ritual-master/the-night-mutant</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://keycap-archivist.com/maker/ritual-master/insectoid</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
